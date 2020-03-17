@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Roboto:300,400,700&display=swap');
+body{
+	font-family: Segoe UI, "Helvetica Neue";
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: rgba(29,14,0,0.7) !important;
+}
+footer{
+	background-color: #432A1C;
+	padding: 25px 0;
+	border-top: 4px solid #432a1c;
+	color: #fff;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+.titulos{
+	font-family: 'Roboto', sans-serif;
+	font-size: 60px;
+	color: #ffffff;
+}
+
+#OurSpeciality{
+	background-color:#432A1C;
+}
+
+span{
+	color: #c38356;
+}
+
+#OurSpeciality h3{
+	font-size: 12px;
+}
+.iconos{
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	line-height: px;
+	border-radius: 100%;
+	background-color: #fff;
+}
+
+#visitors{
+	background-image: url("../img/happyvisitor-bg.jpg");
+	background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: #ffffff;
+  padding: 12% 0;
+  text-align: center;
+}
+
+#visitor h2{
+	color: #fff;
+}
+
+#Gallery{
+	background-image: url("../img/body-bg.jpg");
+	background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: #ffffff;
+  padding: 12% 0;
+  text-align: center;
+}
+#Gallery h2{
+	color: #000;
+}
+
+#backgroundIMGFOOTER{
+	background-image: url("../img/footer-bg.jpg");
+	background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: #ffffff;
+  padding: 12% 0;
+  text-align: center;
+}
+
+#backgroundIMGFOOTER h4{
+	font-size: 12px;
+}
